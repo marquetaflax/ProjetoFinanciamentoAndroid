@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SistemaDeFinanciamento</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_vehicle">VehicleActivity</string>
+    <string name="title_activity_realty">RealtyActivity</string>
+</resources>
